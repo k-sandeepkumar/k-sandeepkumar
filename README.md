@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working as trainee in jspiders
+I'm working as Full stack java trainee at jspiders
 
 
 ## 🌐 Socials:
